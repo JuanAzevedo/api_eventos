@@ -1,0 +1,5 @@
+Flask
+Flask-CORS
+Flask-OpenAPI3
+pydantic
+requests
